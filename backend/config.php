@@ -62,7 +62,7 @@ define('MAX_LOGIN_ATTEMPTS', 5);
 define('LOGIN_TIMEOUT', 900); // 15 minutos
 
 // URLs do Sistema
-define('BASE_URL', 'https://guardacivil.github.io/guardacivil');
+define('BASE_URL', 'http://localhost/sys.gcm');
 define('FRONTEND_URL', BASE_URL . '/frontend');
 define('BACKEND_URL', BASE_URL . '/backend');
 define('UPLOADS_URL', BASE_URL . '/uploads');

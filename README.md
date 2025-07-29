@@ -39,7 +39,7 @@ sqlite3 database/smart_system.db < docs/database_setup.sql
 
 ## 5. Testar o sistema
 
-- Acesse a URL do sistema no navegador: https://guardacivil.github.io/guardacivil/frontend/
+- Acesse a URL do sistema no navegador (ex: http://localhost/sys.gcm/frontend/)
 - Faça login com o usuário de exemplo criado no SQL (`joaosilva`)
 - Teste as principais funcionalidades (cadastro, ocorrências, uploads, geração de PDF, envio de e-mail)
 
