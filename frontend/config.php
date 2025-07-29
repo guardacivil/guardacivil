@@ -1,12 +1,8 @@
 <?php
-// config.php - conexão com o banco de dados MySQL
+// config.php - conexão com o banco de dados SQLite
+// Configurado para GitHub Pages: https://guardacivil.github.io/guardacivil/
 
-// Para reverter para SQLite, basta restaurar o arquivo config.php.bkp_sqlite
-
-$host = 'localhost';
-$dbname = 'police_system';
-$user = 'root';
-$pass = '';
+$db_path = __DIR__ . '/../database/smart_system.db';
 
 $options = [
     PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
@@ -15,7 +11,7 @@ $options = [
 ];
 
 try {
-    $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $user, $pass, $options);
+    $pdo = new PDO('sqlite:' . $db_path, null, null, $options);
 } catch (PDOException $e) {
     throw new PDOException($e->getMessage(), (int)$e->getCode());
 }

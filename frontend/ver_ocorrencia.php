@@ -76,7 +76,7 @@ $soImagens = isset($_GET['imagens']) && $_GET['imagens'] == 1;
                                     $campo = $prefix . $i;
                                     if (!empty($ocorrencia[$campo])) {
                                         $temFoto = true;
-                                        echo '<img src="/sys.gcm/uploads/' . htmlspecialchars($ocorrencia[$campo]) . '" alt="' . $label . '" style="border:1px solid #ccc;max-width:120px;max-height:120px;margin:2px;border-radius:4px;">';
+                                        echo '<img src="../uploads/' . htmlspecialchars($ocorrencia[$campo]) . '" alt="' . $label . '" style="border:1px solid #ccc;max-width:120px;max-height:120px;margin:2px;border-radius:4px;">';
                                         echo '<div style="font-size:10px;color:#888;">uploads/' . htmlspecialchars($ocorrencia[$campo]) . '</div>';
                                     }
                                 }

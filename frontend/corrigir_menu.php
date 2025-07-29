@@ -78,7 +78,7 @@ $arquivos = [
     'checklist.php',
     'notificacoes.php',
     'config_notificacoes.php',
-    'dashboard_mobile.php'
+
 ];
 
 $corrigidos = 0;

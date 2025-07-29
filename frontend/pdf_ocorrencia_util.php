@@ -17,7 +17,7 @@ function gerarPdfOcorrencia($id, $pdo, &$erro = null, $pdf_path = null) {
     // Corrigir caminhos das imagens para garantir que sempre existam
     // Forçar uso do JPG e corrigir barras para TCPDF/Windows
     // Forçar uso do caminho absoluto do PNG fornecido pelo usuário
-    $imgCabecalho = 'C:/xampp/htdocs/sys.gcm/public/img/cabecalho.png';
+    $imgCabecalho = __DIR__ . '/../public/img/cabecalho.png';
     $imgCabecalho = str_replace('\\', '/', $imgCabecalho);
     $imgLogo = str_replace('\\', '/', realpath(__DIR__ . '/../public/img/logo.png'));
     if (!$imgLogo) $imgLogo = str_replace('\\', '/', realpath(__DIR__ . '/../public/img/logo.jpg'));
