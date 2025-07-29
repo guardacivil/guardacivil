@@ -1,0 +1,99 @@
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_5.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_5.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_6.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_6.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_7.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_7.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_8.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_8.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_9.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_9.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_10.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_10.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_11.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_11.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_1.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_1.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_2.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_2.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_3.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_3.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_4.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_4.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_5.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_5.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_6.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_6.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_7.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_7.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_8.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_8.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_9.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_9.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_10.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_10.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_11.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_11.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_12.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_12.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_13.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_13.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_14.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_14.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_15.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_15.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_16.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_16.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_17.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_17.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_18.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_18.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_19.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_19.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_20.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_20.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_21.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_21.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_22.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_22.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_23.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_23.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_24.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_24.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_25.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_25.pdf'
+Erro: 
+Tentando gerar PDF em: C:\xampp\htdocs\sys.gcm\frontend/../pdfs/ocorrencia_26.pdf
+Retorno gerarPdfOcorrencia: 'C:\\xampp\\htdocs\\sys.gcm\\frontend/../pdfs/ocorrencia_26.pdf'
+Erro: 

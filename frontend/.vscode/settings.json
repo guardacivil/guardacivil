@@ -1,0 +1,6 @@
+{
+    "php.server.port": 8000,
+    "php.server.browser": "chrome",
+    "php.server.root": "./frontend",
+    "php.server.phpPath": "C:\\xampp\\php\\php.exe"
+} 
